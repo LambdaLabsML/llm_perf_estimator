@@ -26,13 +26,9 @@ This project provides tools to estimate and benchmark the theoretical inference 
 
 ## Installation
 
-1. Ensure you have **Python 3.8+** installed.
-2. Install required dependencies:
-
-   ```bash
-   pip install pandas
-   ```
-3. Place both scripts (`llm_perf_estimator.py` and `grid_search_runner.py`) in the same directory.
+```bash
+pip install pandas
+```
 
 ---
 
