@@ -20,7 +20,7 @@ This project provides tools to estimate and benchmark the theoretical inference 
    * [Metrics of Interest](#metrics-of-interest)
    * [Script Parameters](#script-parameters)
    * [Hardcoded Heuristics](#hardcoded-heuristics)
-   * [Performance Formulas](#performance-formulas)
+   * [Performance Formulas](#performance)
 
 ---
 
