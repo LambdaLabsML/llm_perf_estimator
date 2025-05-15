@@ -60,11 +60,8 @@ This prints:
 * **Prefill throughput** (tokens/sec, compute-bound with FLOPs utilization)
 * **Decode throughput** (tokens/sec, memory-bound)
 * **Prefill & Decode times** (sec)
-* **Aggregate decode throughput** (tokens/sec across batch)
 * **Latency per query** (sec)
-* **Max sustainable QPS** (queries/sec)
-* **GPU load** at the requested QPS (% of capacity)
-
+* 
 ### Running `grid_search_runner.py`
 
 Perform a grid search over GPU types and model sizes, saving results to Markdown:
